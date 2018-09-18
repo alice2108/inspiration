@@ -1,0 +1,22 @@
+svn url：svn://139.129.23.185/project
+账号：wn
+密码：wangnian
+
+公司服务器公网IP：121.42.197.195
+用户名：administrator
+密码：HHfiremanuav15
+
+http://121.42.197.195:8090/Login.aspx
+
+服务器ftp：ftp://121.42.197.195
+端口：37653
+
+用户名		密码			角色
+hhadmin		jshh.!|9876543210	超级管理员
+hhgis001	honghu0077()+01		只可以下载，appmodel和hhuav
+
+
+
+
+http://www.hhuav.com/osgData/文件名
+http://www.hhuav.com/osgData/zzzData
